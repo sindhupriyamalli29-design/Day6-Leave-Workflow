@@ -1,0 +1,6 @@
+question,answer,source_section,confidence,status,action
+Can I carry over unused leave?,"Yes, you can carry over up to 5 days of unused casual leave to the next year. The carried‑over days must be used by 31 March of the following year, or they will lapse. Sick leave cannot be carried over.",7,high,Approved,Sent to mock API
+Who approves my leave if my manager is on leave?,The request is forwarded to the backup approver named in the HR portal.,4,high,Approved,Sent to mock API
+Can I take half a day of sick leave?,"Yes, you can take half a day of sick leave.",3,high,Approved,Sent to mock API
+How many days in advance must I apply for casual leave?,You must apply for casual leave at least 2 working days in advance.,2,high,Approved,Sent to mock API
+What's the canteen menu today?,Not found in the leave policy,,low,Rejected,Rejected: nothing sent
